@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">VoiceRecordingApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="str_explanation">Please press the START RECORDING button to record a 1-second clip of you speaking into the mic.</string>
+
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="action_list">
+        <item>Artificial Neural Network</item>
+        <item>Support Vector Machine</item>
+        <item>k-Nearest Neighbours</item>
+        <item>Naive Bayes Classifier</item>
+    </string-array>
+</resources>

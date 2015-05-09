@@ -1,0 +1,11 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name = "landing_font_size">28sp</dimen>
+    <dimen name = "landing_text_margin">5dp</dimen>
+    <dimen name = "landing_appliance_margin_top">16dp</dimen>
+	<item type="dimen" format="float" name="landing_appliance_weight_left">0.8</item>
+	<item type="dimen" format="float" name="landing_appliance_weight_right">0.2</item>
+</resources>
